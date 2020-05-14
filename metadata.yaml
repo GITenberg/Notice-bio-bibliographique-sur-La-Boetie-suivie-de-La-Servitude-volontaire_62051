@@ -1,0 +1,23 @@
+_repo: Notice-bio-bibliographique-sur-La-Boetie-suivie-de-La-Servitude-volontaire_62051
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Payen, Jean François
+    gutenberg_agent_id: '51745'
+    url: http://www.gutenberg.org/2009/agents/51745
+  - agent_name: Boëtie, Estienne de la
+    gutenberg_agent_id: '51746'
+    url: http://www.gutenberg.org/2009/agents/51746
+description: ''
+gutenberg_issued: '2020-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62051'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Notice bio-bibliographique sur La Boëtie, suivie de La Servitude volontaire
+url: http://www.gutenberg.org/ebooks/62051
