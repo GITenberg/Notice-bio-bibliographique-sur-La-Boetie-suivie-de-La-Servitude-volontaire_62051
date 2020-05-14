@@ -1,5 +1,8 @@
 _repo: Notice-bio-bibliographique-sur-La-Boetie-suivie-de-La-Servitude-volontaire_62051
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62051-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Payen, Jean François
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51746'
     url: http://www.gutenberg.org/2009/agents/51746
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62051#Notice-bio-bibliographique-sur-La-Boetie-suivie-de-La-Servitude-volontaire
 gutenberg_issued: '2020-05-07'
 gutenberg_type: Text
 identifiers:
